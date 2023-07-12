@@ -1,3 +1,4 @@
+//* Fungsi Mengconfig ke mysql
 const { Sequelize } = require('sequelize');
 
 const sequelize = new Sequelize({
